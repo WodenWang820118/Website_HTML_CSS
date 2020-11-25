@@ -1,0 +1,19 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    background-color: white;
+    border-style: none;
+    height:2px;
+    width:30%;
+    margin: 0px; /*the margin makes the horizontal rule (hr) align to the left*/
+}
+
+h1{
+    color: #66BFBF;
+}
+
+h2{
+    color: #66BFBF;
+}

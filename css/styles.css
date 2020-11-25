@@ -61,6 +61,10 @@ hr {
     text-align: center;
 }
 
+.footer_link {
+    margin-right: 20px;
+}
+
 #bottom_cloud {
     position: absolute;
     left:550px; /*count the pixel from the left side*/
@@ -80,4 +84,8 @@ hr {
 #top_sentence {
     line-height: 2;
     font-weight: normal;
+}
+
+#copyright {
+    color: rgb(117, 106, 106);
 }
